@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jibril Saleem, a fresh graduate of a computer science degree;
-- 👀 I’m interested in making cool web interfaces and video editing (although my laptop is not in a good condition);
-- 🌱 I’m currently learning React and trying to explore on PyGames (Python);
+- 👀 I’m interested in making cool web interfaces, video editing, mobile app development (although my laptop is not in a good condition..);
+- 🌱 I’m currently trying to learn React;
 - 📫 How to reach me:
   - LinkedIn: Jibril Saleem;
 
